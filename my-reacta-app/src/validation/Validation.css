@@ -1,0 +1,27 @@
+.inputBox{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    
+     
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+}
+.selectBox{
+    display: flex;
+    flex-direction: row;
+}
+
+input{
+    background-color: #F7F9F9 ;
+    width: 400px;
+    border: 1px solid rgb(96,96,96);
+}
